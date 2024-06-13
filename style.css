@@ -1,0 +1,26 @@
+h1 {
+    color: chartreuse;
+    text-align: center;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium; }
+
+    h2 {
+        color: lawngreen;
+    }
+
+    body {
+        background-color: cornflowerblue;
+    }
+
+    .styledli {
+        color: crimson (235, 199, 0) rgb(85, 148, 26);
+        font-weight: 300;
+        font-size: 18px;
+    }
+
+    .styleli {
+        color: gold;
+    }
