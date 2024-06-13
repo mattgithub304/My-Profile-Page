@@ -22,13 +22,28 @@ p {
     }
 
     .styleli {
-        color: gold;
+        color: lawngreen;
     }
 
     .my-button{
-        background-color: darkseagreen;
-        color: darkslateblue;
+        background-color: forestgreen;
+        color: white;
         padding: 10px 20px;
         border: none;
-        cursor: pointer;
+        cursor: pointer;  
     }
+            
+       
+    
+
+    .images {
+        width: 300px
+        height auto;
+    
+    }
+
+    .gradient {
+        background: linear-gradient(to right, darkseagreen, turquoise, cornflowerblue);
+    }
+
+    
