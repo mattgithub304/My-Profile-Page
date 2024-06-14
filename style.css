@@ -37,13 +37,20 @@ p {
     
 
     .images {
-        width: 300px
-        height auto;
+        width: 300px;
+        height: 250px;
     
     }
 
     .gradient {
         background: linear-gradient(to right, darkseagreen, turquoise, cornflowerblue);
+    }
+
+    .photobox{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 5px;
+        margin: 0 auto;
     }
 
     
